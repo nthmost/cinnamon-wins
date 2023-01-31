@@ -1,3 +1,7 @@
+# Custom
+# yeah i never want to see a Pipfile committed thx.
+Pipfile
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
